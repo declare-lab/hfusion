@@ -2,7 +2,8 @@
 Codes for the paper ``Multimodal sentiment analysis using hierarchical fusion with context modeling``
 
 # How to run
-``python hfusion.py``
+``python3 hfusion.py``
+
 ## Reuirements
 
 Keras >= 2.0, Tensorflow >= 1.7, Numpy, Scikit-learn
